@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">CookingAid</string>
+    <string name="action_settings">Об авторе</string>
+    <string name="action_test">Test DB</string>
+    <string name="author_text">"Приложение разработал \n Студент группы ПИвГМУ-3 \n Никифоров Владимир"</string>
+    <string name="action_main">На главный</string>
+    <string name="warning_recipe_list">"Извините.\nМы не нашли что вы можете приготовить\nиз этого списка продуктов"</string>
+    <string name="button_test">Считать с БД</string>
+    <string name="button_to_all_list">Все рецепты</string>
+    <string name="button_search">Поиск</string>
+    <string-array name="ingredient_selection">
+        <item>хлеб</item>
+        <item>помидор</item>
+        <item>огурец</item>
+        <item>перец болгарский</item>
+        <item>лук репчатый</item>
+        <item>маслины</item>
+        <item>листья салата</item>
+        <item>петрушка</item>
+        <item>морковь</item>
+        <item>картофель</item>
+        <item>капуста белокочанная</item>
+        <item>огурец соленый</item>
+        <item>томатная паста</item>
+        <item>кость говяжья</item>
+        <item>колбаса сырокопченная</item>
+        <item>лист лавровый</item>
+        <item>тесто слоенное</item>
+        <item>сметана</item>
+        <item>лимон</item>
+        <item>сыр твердый</item>
+        <item>сыр фета</item>
+        <item>мука пшеничная</item>
+        <item>яйцо куриное</item>
+        <item>масло сливочное</item>
+        <item>масло подсолнечное</item>
+        <item>масло оливковое</item>
+        <item>молоко</item>
+        <item>дрожжи</item>
+        <item>сахар</item>
+        <item>соль</item>
+        <item>перец</item>
+    </string-array>
+</resources>
